@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "weatherbit.api.key",
+  "type": "java.lang.String",
+  "description": "A description for 'weatherbit.api.key'"
+}]}
